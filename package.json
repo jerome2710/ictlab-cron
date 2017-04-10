@@ -1,0 +1,22 @@
+{
+  "name": "ictlab-cron",
+  "version": "1.0.0",
+  "description": "ICT-Lab cron for faking data for the MQTT-broker into the InfluxDB database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jerome2710@github.com/jerome2710/ictlab-cron.git"
+  },
+  "author": "Jerome Anker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerome2710/ictlab-cron/issues"
+  },
+  "homepage": "https://github.com/jerome2710/ictlab-cron#readme",
+  "dependencies": {
+    "mqtt": "^2.6.2"
+  }
+}
