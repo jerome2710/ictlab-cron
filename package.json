@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jerome2710/ictlab-cron#readme",
   "dependencies": {
+    "influx": "^5.0.6",
     "mqtt": "^2.6.2"
   }
 }
